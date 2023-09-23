@@ -21,31 +21,30 @@ Welcome to **Telegram Scraper** - a powerful tool that monitors specific Telegra
 ## 🚀 Quick Start
 
 1. **Clone** the repo:
-\```bash
+
 git clone https://github.com/LikhonVorTex/TelegramScraper.git
-\```
+
 
 2. **Navigate** to the directory:
-\```bash
 cd TelegramScraper
-\```
+   
 
 3. **Setup**:
 - Replace the placeholder values of `api_id` and `api_hash` in the script with your Telegram API credentials.
 - Optionally, modify the list of channels/groups to monitor and the destination channel.
 
 4. **Run** the scraper:
-\```bash
-python <script-name>.py
-\```
+
+python TelegramScraper.py
+
 
 ### Prerequisites
 
 - Python
 - Telethon library:
-\```bash
+
 pip install telethon
-\```
+
 - API credentials from [Telegram's developer portal](https://my.telegram.org/auth).
 
 ## 📝 Notes
