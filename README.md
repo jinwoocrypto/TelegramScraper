@@ -3,7 +3,7 @@
 Welcome to **Telegram Scraper** - a powerful tool that monitors specific Telegram channels & groups for approved messages and forwards them to a designated channel.
 
 <p align="center">
-  <img src="[https://i.imgur.com/UYSWm3W.png](https://ibb.co/vkx6XG3)" alt="Telegram Logo">
+  <img src="https://i.ibb.co/m4CVNw9/photo-2023-09-18-05-27-15.jpg" alt="Telegram Logo">
 </p>
 
 [![GitHub stars](https://img.shields.io/github/stars/LikhonVorTex/TelegramScraper.svg?style=social&label=Star)](https://github.com/LikhonVorTex/TelegramScraper)
